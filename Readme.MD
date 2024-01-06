@@ -5,7 +5,7 @@ Udemy Course >> cPanel WHM Cloud VPS Web Hosting Server Infrastructure Setup
 
 **********
 
-Complete Crash Course cPanel WHM Azure Cloud VPS Apache Web Server SSL TLS DNS MySQL Wordpress SMTP Mail Hosting Infrastructure Deployment (Installation and Configuration)
+Complete Crash Course - cPanel WHM Setup on Azure Cloud or VPS - Apache Web Server & SSL/TLS DNS MySQL Wordpress SMTP Mail Hosting Infrastructure Deployment (Installation and Configuration)
 
 **********
 
