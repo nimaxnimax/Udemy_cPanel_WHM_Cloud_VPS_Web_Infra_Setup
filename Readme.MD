@@ -264,3 +264,7 @@ sudo umount /proc/meminfo
 free
 ```
 
+**********
+
+Installation Guide and System Requirements >> https://docs.cpanel.net/installation-guide/system-requirements-ubuntu/
+
