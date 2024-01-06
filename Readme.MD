@@ -244,7 +244,7 @@ pwd
 cd /home
 sudo curl -o latest -L https://securedownloads.cpanel.net/latest
 ls -anp
-sudo bash sh latest
+sudo bash latest
 ```
 
 Linux Command >>
