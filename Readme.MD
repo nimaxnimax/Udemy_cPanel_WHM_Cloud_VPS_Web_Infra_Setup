@@ -265,6 +265,9 @@ free
 ```
 
 **********
+Note: To test and verify >> for fake and test domains:
+- On Linux >> Example >> Add cpanel1.domain.local & domain.local with Private or Public IP in >> /etc/hosts >> to Test and Verify FQDN and Domain
+- On Windows >> Example >> Add cpanel1.domain.local & domain.local with Private or Public IP in >> c:\windows\system32\drivers\etc\hosts >> to Test and Verify FQDN and Domain
 
 Installation Guide and System Requirements >> https://docs.cpanel.net/installation-guide/system-requirements-ubuntu/
 
