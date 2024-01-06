@@ -17,6 +17,9 @@ Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
 
 **********
 
+![Alt text](image-1.png)
+
+
 cPanel and WHM (Web Host Manager) are software solutions designed to simplify the process of website hosting and server management. They are widely used in the web hosting industry to provide a user-friendly interface for managing websites, domains, email accounts, and various server configurations. 
 
 1. **cPanel:**
@@ -42,6 +45,9 @@ It's important to note that cPanel and WHM are typically provided by hosting pro
 
 **********
 
+![Alt text](image-2.png)
+
+
 It is possible to install cPanel and WHM on various cloud platforms like Azure, AWS (Amazon Web Services), GCP (Google Cloud Platform), and on VPS (Virtual Private Servers). cPanel, however, is a commercial product, and you'll need to have a valid license to use it. 
 
 Here's a general overview of the installation process on a Linux server, and using Ubuntu 20.04 as an example:
@@ -66,6 +72,9 @@ Here's a general overview of the installation process on a Linux server, and usi
 It's important to check cPanel's official documentation for the most up-to-date information and specific instructions for your chosen operating system. Always follow best practices for security and consult the documentation provided by your cloud provider for any platform-specific considerations.
 
 **********
+
+![Alt text](image-3.png)
+
 
 Here are the minimum and recommended server requirements for cPanel and WHM. Keep in mind that these specifications can change with updates and new versions, so it's always a good idea to check the official cPanel documentation for the latest information.
 
@@ -115,6 +124,9 @@ Before installation, it's crucial to check the latest documentation on the cPane
 
 **********
 
+![Alt text](image-4.png)
+
+
 cPanel and WHM offer a variety of advantages, particularly for individuals and organizations involved in web hosting, server management, and website administration. Here are some key advantages:
 
 1. **User-Friendly Interface:**
@@ -153,6 +165,9 @@ cPanel and WHM offer a variety of advantages, particularly for individuals and o
 While cPanel and WHM offer numerous benefits, it's essential to consider specific needs and requirements, especially when choosing an operating system and understanding licensing costs associated with cPanel. Additionally, users should keep abreast of any changes or updates in the software's features and system requirements.
 
 **********
+
+![Alt text](image-5.png)
+
 
 Cloud Network Security/Firewall >> Allow Protocols
 - ICMP >> Optional
