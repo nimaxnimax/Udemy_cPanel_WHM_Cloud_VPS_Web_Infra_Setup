@@ -56,7 +56,7 @@ Here's a general overview of the installation process on a Linux server, and usi
    - Ensure that your server meets the minimum system requirements for cPanel. This includes having a clean installation of the supported operating system, sufficient RAM, and available disk space.
 
 2. **Operating System:**
-   - cPanel officially supports CentOS, CloudLinux, and Red Hat Enterprise Linux (RHEL). Ubuntu is not officially supported by cPanel. While it's possible to install cPanel on Ubuntu, it may require additional steps and is not recommended for production environments.
+   - cPanel officially supports CentOS, CloudLinux, and Red Hat Enterprise Linux (RHEL). While it's possible to install cPanel on Ubuntu, it may require additional steps and is not recommended for production environments.
 
 3. **Installation Process:**
    - The installation process involves running a script provided by cPanel on a clean server. This script will automatically download and install the necessary packages.
