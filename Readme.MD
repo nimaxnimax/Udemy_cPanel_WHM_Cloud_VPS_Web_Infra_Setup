@@ -90,7 +90,7 @@ Minimum Server Requirements:
 - 20 GB of disk space (but more space is recommended for hosting accounts and data).
 
 #### Operating System:
-- CentOS 7 or CloudLinux 7.
+- Ubuntu 20 or CentOS 7 or CloudLinux 7.
 
 #### Network:
 - A stable network connection.
@@ -107,7 +107,7 @@ Recommended Server Requirements:
 - 40 GB of free disk space or more.
 
 #### Operating System:
-- CentOS 7 or CloudLinux 7.
+- Ubuntu 20 or CentOS 7 or CloudLinux 7.
 
 #### Network:
 - A stable and high-speed network connection.
