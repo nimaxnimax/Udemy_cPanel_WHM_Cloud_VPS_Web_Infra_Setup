@@ -20,6 +20,7 @@ Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
 
 Linux Command >>
 ```bash
+sudo apt update -y
 
 ```
 
