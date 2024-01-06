@@ -245,6 +245,7 @@ cd /home
 sudo curl -o latest -L https://securedownloads.cpanel.net/latest
 ls -anp
 sudo bash latest
+sudo whmlogin
 ```
 
 Linux Command >>
