@@ -249,6 +249,13 @@ bash sh latest
 
 Linux Command >>
 ```bash
+sudo apt install iftop iotop -y
+top
+sudo iftop
+ip addr
+df -h
+free -h
+sudo cat /proc/meminfo
 sudo cp /proc/meminfo .
 sudo chmod +w meminfo
 sudo vi meminfo
