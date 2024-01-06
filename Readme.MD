@@ -200,7 +200,7 @@ cPanel and WHM (Web Host Manager) use various ports for different services. Here
 Ensure that these ports are open in your server's firewall to allow the necessary traffic. Additionally, consider implementing security best practices such as restricting access to these ports based on IP addresses and keeping your server software up to date with the latest security patches.
 
 **********
-Ubuntu 20.04 (Focal) Commands
+WHM & cPanel Installation - Ubuntu 20.04 (Focal) Commands
 
 Linux Command >>
 ```bash
